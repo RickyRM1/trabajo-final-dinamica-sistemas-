@@ -7,6 +7,7 @@ Trabajo final del curso **Dinámica de Sistemas**.
 - Picón Ayala, Yan Levi
 - Vizcardo Zegarra, Roberto Carlos
 - Ruiz Meza, Ricardo Antonio
+- Mamani Solorzano Sebastian Ernesto
 
 ## ¿De qué trata este proyecto?
 
