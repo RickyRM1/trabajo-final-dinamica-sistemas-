@@ -1,0 +1,5 @@
+Escenario,Densidad vehicular,Tasa de emisión vehicular efectiva,Supuesto narrativo
+Base,+3%/año,Sin cambio,"Continuación de la tendencia actual, sin nueva política pública."
+Pesimista,+8%/año,Sin cambio,Crecimiento del parque automotor sin ningún control ni fiscalización.
+Optimista,+1%/año,"−30% en 24 meses, sin retardo",Restricción estricta e inmediata + renovación acelerada de flota (techo teórico).
+Con intervención,+1.5%/año,"−20% en 18 meses, con 6 meses de retardo","Política realista: restricción parcial tipo ""pico y placa"" + incentivos a renovación de flota, con el retardo regulatorio del bucle B1."
